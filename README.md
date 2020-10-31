@@ -98,8 +98,8 @@ While Pinterest is the method I prefer, there are certainly other options you ca
   <summary>HTML Syntax</summary>
   
   ```
-  <img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
+  <img src="image_url.png"
+     alt="Short Image Description"
      style="float: left; margin-right: 10px;" 
      /> 
   ```
@@ -117,11 +117,11 @@ Click [here](https://markdownmonster.west-wind.com/docs/_4s01ezteq.htm) for the 
   - For another <kbd>code block</kbd>, use ```<kbd> text here </kbd>```
   - For the click to expand text boxes, use
   ```
-      - <details>
-      - <summary> Title of Heading to Click </summary> 
-      - (enter a blank line between summary and the text for your markdown between the details to work)
-      - your text here
-      - </details>
+<details>
+  <summary> Title of Heading to Click </summary> 
+  (enter a blank line for your markdown between the details to work)
+  your text here
+</details>
   ```
   - To add a table of contents, use the basic link format of ```[text](url)```
     - Each header you create has a unique url with the following path
@@ -130,5 +130,10 @@ Click [here](https://markdownmonster.west-wind.com/docs/_4s01ezteq.htm) for the 
 </details>
 
 # Some Inspiration
+- For a plethora of github profile readmes to gain inspiration from, click [here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
+  - Another [profile reademe](https://github.com/kefeh) with a corresponding [Medium post](https://medium.com/@kefehcollins/how-to-create-a-github-profile-readme-990e0b96f24e).
+  - A [profile readme](https://github.com/thewhiteh4t) with a cohesive theme throughout.
+- For another huge list of awesome profile readmes, click [here](https://github.com/matiassingers/awesome-readme).
+- Feel free to take ideas from any of my repos! I had a lotta fun making the readme on my Office Space themed project [here](https://github.com/ThompsonBethany01/Office-Space).
 
 # Author
