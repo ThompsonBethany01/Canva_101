@@ -64,25 +64,42 @@ While Pinterest is the method I prefer, there are certainly other options you ca
 <details>
   <summary>Classic Markdown</summary>
   
-  aergaerg
+  Using markdown to reference your visual is very straightforawrd. Now that you have the url to reference, you can plug it into the format of   
+  - ```![Image-Description](url)```.   
+  
+  You can also resize the image if you find the final display to be too big or small. It may take some playing around with. Use  
+  - ```![Image-Description](url width=### height=###)```
 </details>
 
 <details>
   <summary>HTML Syntax</summary>
-  aergaerg
+  
+  ```
+  <img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" 
+     /> 
+  ```
   
 </details>
 
 <details>
   <summary>Other Flare with Text</summary>
   
+ Feel free to fork this repo, and check out the contents of the Readme using the code below.  
+  
   - For ```code blocks``` use three back ticks at the beginning and end of the text.  
   - For another <kbd>code block</kbd>, use < kbd > text here < /kbd > (minus the spaces)
   - For the click to expand text boxes, use
       - < details >
-      - < summary > Title of Heading to Click < /summary >
+      - < summary > Title of Heading to Click < /summary > 
+      - (enter a blank line between summary and the text for your markdown between the details to work)
       - your text here
       - < /details > (once again without the spaces)
+  - To add a table of contents, use the basic link format of [ text ] ( url )
+    - Each header you create has a unique url with the following path
+    - https://github.com/<your_username>/<your_repo_name>#<heading_name>
+      
 </details>
 
 # Some Inspiration
