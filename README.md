@@ -53,6 +53,10 @@ If you are worried about not being creative enough for this **stop right there**
    
    Templates are only available on the subscription version. However to me, they make the subscription more than worth it. I suggest signing up for the free trial just to try them out. You can create a header and additional visuals for your github profile reademe and cancel if you feel it isn't for you. 
     
+   ### Lock in Place
+   If you have an element you want to lock in place, you can do so to keep from accidently moving it around. Simply select the element or multiple elements, and click the lock button in the upper right hand corner. Do the opposite to unlock.
+   
+   #### For more tips, here's an [article](https://fallontravels.com/blog/canva-tips-and-tricks).
 </details>
 
 ## Upload the Final Product
