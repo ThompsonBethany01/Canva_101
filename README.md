@@ -33,7 +33,26 @@ If you are worried about not being creative enough for this **stop right there**
 
 <details>
   <summary>Some Helpful Tips</summary>
-  aregaer
+  
+  ### Elements
+  Can't find the element you want?  
+  
+  - Try adding the image to your design first. Some elements, you can change the color(s) to fit your design better
+  - Search what you want with png at the end. If you find something you like, you can copy and paste.
+     - For example: ```Github Logo png``` or ```computer cursor gif```
+     - You can usually tell if the image has no background if it has a white and grey checkboard background in the search engine
+     - You can also use the image effects to remove the background if you have the canva subscription
+  - If you need to flip an image, keep in mind you can only crop the image in the original orientation. Crop first, then flip. (It doesn't make sense to me either)
+      
+  ### Templates
+  Templates are very helpful to get you started, whether you have an idea of what you want or need more inspiration.
+  
+   - Search for templates by idea/theme or by color.
+   - When you see one you like, apply to the page. If you see any others you like, add a new page and apply it as well. You don't have to pick just one.
+   - Now you can scroll through your options and see the femplates you chose full size. You can settle on one you really like and delete the rest. If you can't decide, add a new blank page and take the pieces you like from different ones to combine how you like.  
+   
+   Templates are only available on the subscription version. However to me, they make the subscription more than worth it. I suggest signing up for the free trial just to try them out. You can create a header and additional visuals for your github profile reademe and cancel if you feel it isn't for you. 
+    
 </details>
 
 ## Upload the Final Product
@@ -41,7 +60,7 @@ If you are worried about not being creative enough for this **stop right there**
   <summary>Via Pinterest</summary>
 
   1. Create a free account on Pinterest  
-  2. Add an image by clicking the grey plus button on the bottom right corner of the home page or your profile page   
+  2. Add an image by clicking ```+``` on the bottom right corner of the home page or your profile page   
   3. Choose which image or gif to upload, and add at least a title. Keep your visuals organized by keeping boards (collection of pins) that are helpful for you   
       - ex: one board titled "Git Profile" and other boards based off your repo names  
   4. Go to the pin you created and click on the image. You should be redirected to a new tab that displays only the visual. 
@@ -83,22 +102,26 @@ While Pinterest is the method I prefer, there are certainly other options you ca
   
 </details>
 
+Click [here](https://markdownmonster.west-wind.com/docs/_4s01ezteq.htm) for the detailed documentation on markdown with images.
+
 <details>
   <summary>Other Flare with Text</summary>
   
  Feel free to fork this repo, and check out the contents of the Readme using the code below.  
   
   - For ```code blocks``` use three back ticks at the beginning and end of the text.  
-  - For another <kbd>code block</kbd>, use < kbd > text here < /kbd > (minus the spaces)
+  - For another <kbd>code block</kbd>, use ```<kbd> text here </kbd>```
   - For the click to expand text boxes, use
-      - < details >
-      - < summary > Title of Heading to Click < /summary > 
+  ```
+      - <details>
+      - <summary> Title of Heading to Click </summary> 
       - (enter a blank line between summary and the text for your markdown between the details to work)
       - your text here
-      - < /details > (once again without the spaces)
-  - To add a table of contents, use the basic link format of [ text ] ( url )
+      - </details>
+  ```
+  - To add a table of contents, use the basic link format of ```[text](url)```
     - Each header you create has a unique url with the following path
-    - https://github.com/<your_username>/<your_repo_name>#<heading_name>
+    - ```https://github.com/<your_username>/<your_repo_name>#<heading_name>```
       
 </details>
 
