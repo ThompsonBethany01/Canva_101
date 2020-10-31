@@ -67,7 +67,7 @@ If you are worried about not being creative enough for this **stop right there**
       - The url should end in the file type, such as https://.pin.img/arjhfbajrhbf.png 
   5. Copy and paste this url to reference in the readme file using markdown or html.
   6. Admire the finished product!
-  
+  Click [here](https://www.pcmag.com/news/how-to-use-pinterest-for-beginners) for more help using Pinterest.  
 </details>
 
 <details>
