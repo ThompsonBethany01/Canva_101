@@ -133,7 +133,10 @@ Click [here](https://markdownmonster.west-wind.com/docs/_4s01ezteq.htm) for the 
 - For a plethora of github profile readmes to gain inspiration from, click [here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
   - Another [profile reademe](https://github.com/kefeh) with a corresponding [Medium post](https://medium.com/@kefehcollins/how-to-create-a-github-profile-readme-990e0b96f24e).
   - A [profile readme](https://github.com/thewhiteh4t) with a cohesive theme throughout.
-- For another huge list of awesome profile readmes, click [here](https://github.com/matiassingers/awesome-readme).
+- For a list of awesome repo readmes, click [here](https://github.com/matiassingers/awesome-readme).
 - Feel free to take ideas from any of my repos! I had a lotta fun making the readme on my Office Space themed project [here](https://github.com/ThompsonBethany01/Office-Space).
 
-# Author
+### Author
+[![](https://github.com/ThompsonBethany01.png?size=60)](https://github.com/ThompsonBethany01)  
+[Bethany Thompson](https://github.com/ThompsonBethany01)   
+Always welcome to questions, comments, and suggestions.🤓
