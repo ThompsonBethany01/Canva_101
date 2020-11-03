@@ -27,12 +27,12 @@ If you are worried about not being creative enough for this **stop right there**
         - if using the free version, you can not resize a design. That's when I recommend choosing based on size.
   3. Check out the templates available. I like to add a page for each template that catches my eye. Then, I choose whichever one I like best or take peices from each.
   5. Add your content, play around with elements or colors, and go with the flow of your *✨imagination✨*.
-  6. When you're satisfied with the design, click ```...``` in the top right corner, then ```download```. You can choose which pages and what file type. Another option is to screen shoot the design with <kbd>command</kbd> + <kbd>shift</kbd> + <kbd>4</kbd>
+  6. When you're satisfied with the design, click ```...``` in the top right corner, then ```download```. You can choose which pages and what file type. Another option is to screenshot the design with <kbd>command</kbd> + <kbd>shift</kbd> + <kbd>4</kbd>
   
 </details>
 
 <details>
-  <summary>Some Helpful Tips</summary>
+  <summary>Helpful Tips For Canva</summary>
   
   ### Elements
   Can't find the element you want?  
@@ -56,7 +56,23 @@ If you are worried about not being creative enough for this **stop right there**
    ### Lock in Place
    If you have an element you want to lock in place, you can do so to keep from accidently moving it around. Simply select the element or multiple elements, and click the lock button in the upper right hand corner. Do the opposite to unlock.
    
-   #### For more tips, here's an [article](https://fallontravels.com/blog/canva-tips-and-tricks).
+   #### For more tips on using Canva, click [here](https://fallontravels.com/blog/canva-tips-and-tricks).
+</details>
+
+<details>
+  <summary> Helpful Tips for Design </summary> 
+  
+  There are plenty of resources explaining what to do or what not to do when it comes to graphic design. In my opinion, the most important factor is to **keep the audience in mind**.   
+  
+  > Are the fonts easy to read? 
+  > Are the images too cluttered? 
+  > Where is the reader's attention drawn to first?
+  
+  Besides that, try not to get too caught up in all the rules if it's holding you back from starting the design process.
+  
+  ### These articles are great for getting started!
+  #### For 25 Graphic Design Tips from Canva, click [here](https://www.canva.com/learn/graphic-design-tips-non-designers/).
+  #### For another article on Graphic Design for non-designers, click [here](https://blog.snappa.com/graphic-design-tips/).
 </details>
 
 ## Upload the Final Product
