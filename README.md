@@ -129,20 +129,28 @@ While Pinterest is the method I prefer, there are certainly other options you ca
   <summary>Classic Markdown</summary>
   
   Using markdown to reference your visual is very straightforawrd. Now that you have the url to reference, you can plug it into the format of   
-  - ```![Image-Description](url)```.   
+  - ```![Image-Description](url)```    
   
-  You can also resize the image if you find the final display to be too big or small. It may take some playing around with. Use  
-  - ```![Image-Description](url width=### height=###)```
+  The main downside to this method is not having an option to resize.
 </details>
 
 <details>
   <summary>HTML Syntax</summary>
   
+  There are several different methods when using html syntax.
   ```
   <img src="image_url.png"
      alt="Short Image Description"
      style="float: left; margin-right: 10px;" 
      /> 
+  ```
+  
+  or 
+  
+  ```
+  <a href="url">
+     <img src="http://url.to/image.png" align="left" height="48" width="48" >
+     </a>
   ```
   
   or  
