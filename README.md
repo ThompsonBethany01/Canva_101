@@ -184,6 +184,7 @@ Click [here](https://markdownmonster.west-wind.com/docs/_4s01ezteq.htm) for the 
   - A [profile readme](https://github.com/thewhiteh4t) with a cohesive theme throughout.
 - For a list of awesome repo readmes, click [here](https://github.com/matiassingers/awesome-readme).
 - Feel free to take ideas from any of my repos! I had a lotta fun making the readme on my Office Space themed project [here](https://github.com/ThompsonBethany01/Office-Space).
+  - The Examples folder in this repo contains a few visuals I've made with Canva as well.
 
 ### Author
 [![](https://github.com/ThompsonBethany01.png?size=60)](https://github.com/ThompsonBethany01)  
