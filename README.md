@@ -18,6 +18,31 @@ If you are worried about not being creative enough for this **stop right there**
 # *Steps to Creating Awesome Visuals for Your Readme*
 ![Basic-Steps](https://i.pinimg.com/originals/e8/82/06/e8820672f399daa7297c0cf1c2ac19dc.png)
 
+## An Example of My Process
+<details>
+  <summary>Creating Churn Visual</summary>
+  
+  Trust me when I say, it never starts pretty. To create a visual for churn in customers, I started with a rough sketch of the idea.   
+  
+  <img src="https://i.pinimg.com/originals/ee/d6/a1/eed6a18cd3a866290b7941479484775b.png" width = 400
+     alt="Visual-Sketch"
+     /> 
+  
+  Eventually, it started to take form.   
+  
+  <img src="https://i.pinimg.com/originals/ac/8b/04/ac8b04942da8cff74d4e7a9e17997a0a.png" width = 400
+     alt="Rough-Draft"
+     /> 
+ 
+  I don't have the full process, but basically it was a lot of trial and error to get to the final product. I knew it needed more structure and guidance for the reader. I ended up with this.  
+  
+   <img src="https://i.pinimg.com/originals/95/3d/cb/953dcb1229b2c76ef0318edf25007e1b.gif"
+     alt="Final-Draft"
+     style="center"
+     /> 
+
+  </details>
+
 ## Create the Design
 <details>
   <summary>Getting Started</summary>
@@ -118,6 +143,14 @@ While Pinterest is the method I prefer, there are certainly other options you ca
      alt="Short Image Description"
      style="float: left; margin-right: 10px;" 
      /> 
+  ```
+  
+  or  
+  
+  ```
+  <p>align="center"
+  <img src="image_url.png">
+  </p>
   ```
   
 </details>
