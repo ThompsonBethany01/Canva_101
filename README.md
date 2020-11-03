@@ -86,8 +86,8 @@ If you are worried about not being creative enough for this **stop right there**
   4. Go to the pin you created and click on the image. You should be redirected to a new tab that displays only the visual. 
       - The url should end in the file type, such as https://.pin.img/arjhfbajrhbf.png 
   5. Copy and paste this url to reference in the readme file using markdown or html.
-  6. Admire the finished product!
-  Click [here](https://www.pcmag.com/news/how-to-use-pinterest-for-beginners) for more help using Pinterest.  
+  6. Admire the finished product!    
+  #### Click [here](https://www.pcmag.com/news/how-to-use-pinterest-for-beginners) for more help using Pinterest.  
 </details>
 
 <details>
