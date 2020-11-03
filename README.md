@@ -64,9 +64,9 @@ If you are worried about not being creative enough for this **stop right there**
   
   There are plenty of resources explaining what to do or what not to do when it comes to graphic design. In my opinion, the most important factor is to **keep the audience in mind**.   
   
-  > Are the fonts easy to read? 
-  > Are the images too cluttered? 
-  > Where is the reader's attention drawn to first?
+  > Are the fonts easy to read?   
+  > Are the images too cluttered?   
+  > Where is the reader's attention drawn to first?   
   
   Besides that, try not to get too caught up in all the rules if it's holding you back from starting the design process.
   
