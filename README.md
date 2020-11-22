@@ -195,8 +195,8 @@ Click [here](https://markdownmonster.west-wind.com/docs/_4s01ezteq.htm) for the 
   - The Examples folder in this repo contains a few visuals I've made with Canva as well.
 
 # Miscellaneous
-[Video Tutorial](https://youtu.be/f29IDxjQnco) on Converting a Canva Presentation to Google Slides
-[Readme Best Practices](https://github.com/ThompsonBethany01/Best-Practice) - an outline for creating a detailed Readme file for any project
+- [Video Tutorial](https://youtu.be/f29IDxjQnco) on Converting a Canva Presentation to Google Slides
+- [Readme Best Practices](https://github.com/ThompsonBethany01/Best-Practice) - an outline for creating a detailed Readme file for any project
 
 ### Author
 [![](https://github.com/ThompsonBethany01.png?size=60)](https://github.com/ThompsonBethany01)  
